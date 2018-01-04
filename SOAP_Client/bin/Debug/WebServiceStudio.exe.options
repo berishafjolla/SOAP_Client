@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataEditors />
+  <InvokeSettings>
+    <RecentlyUsedUris>
+      <Uri>http://localhost:62965/TeamTaskService.asmx</Uri>
+      <Uri>http://localhost:8090/employeeWebApp/soapservices?wsdl</Uri>
+      <Uri>http://www.xmlme.com/wsshakespeare.asmx?WSDL</Uri>
+    </RecentlyUsedUris>
+  </InvokeSettings>
+  <TypeConverters />
+  <UiSettings>
+    <MessageFont>Lucida Sans Unicode, 9.25pt</MessageFont>
+    <ReqRespFont>Lucida Sans Unicode, 9.25pt</ReqRespFont>
+    <WsdlFont>Lucida Sans Unicode, 8.25pt</WsdlFont>
+  </UiSettings>
+  <WsdlSettings CustomCodeDomProvider="" Language="CS" Protocol="SOAP" />
+</Configuration>

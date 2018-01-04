@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\src2.0.1\bin\Debug\WebServiceStudio.exe
+C:\Users\Acer\Desktop\src2.0.1\bin\Debug\WebServiceStudio.pdb
+C:\Users\Acer\Desktop\src2.0.1\obj\Debug\WebServiceStudio.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\src2.0.1\obj\Debug\WebServiceStudio.exe
+C:\Users\Acer\Desktop\src2.0.1\obj\Debug\WebServiceStudio.pdb
+C:\Users\Acer\Desktop\Thesis\src2.0.1\obj\Debug\WebServiceStudio.exe
+C:\Users\Acer\Desktop\Thesis\src2.0.1\obj\Debug\WebServiceStudio.pdb
+C:\Users\Acer\Desktop\Thesis\src2.0.1\bin\Debug\WebServiceStudio.exe
+C:\Users\Acer\Desktop\Thesis\src2.0.1\bin\Debug\WebServiceStudio.pdb
+C:\Users\Acer\Desktop\Thesis\src2.0.1\obj\Debug\WebServiceStudio.csprojResolveAssemblyReference.cache
